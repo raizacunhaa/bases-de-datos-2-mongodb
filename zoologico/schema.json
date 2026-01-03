@@ -1,0 +1,23 @@
+{
+  "habitats": {
+    "_id": "string",
+    "nombre": "string",
+    "clima": "string",
+    "tipo": "string"
+  },
+  "zonas": {
+    "_id": "string",
+    "nombre": "string",
+    "ubicacion": "string"
+  },
+  "cuidadores": {
+    "_id": "string",
+    "apenom": "string",
+    "telefono": "string",
+    "zona_id": "string"
+  },
+  "asignaciones": {
+    "habitat_id": "string",
+    "cuidador_id": "string"
+  }
+}
